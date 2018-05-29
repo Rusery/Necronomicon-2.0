@@ -41,6 +41,13 @@
 
 # Necronomicon
 
+**The revival disclaimer and acknowledgements
+This work has gone dark for over 6 months with no sign of the original owner picking it back up. With lots to contribute to the project for the enlightenment of all aspiring Necromancers, i took it upon my self to continue the project. I want to keep this project open and going for people who want to contribute to the Necronomicon, and make it more awesome than it already is. The method of editing will still be through requests. If the original owner(s) want the project stopped or want to assume control, they can contact me here on Github. 
+
+Anyhow, a little about me:
+
+My names Rusery, and i am a long time POE player and enthused practioner of the dead. I've been playing Summoner since 2013 and have played the build every which way possible. From Poison to Minion Instability, from CI to Low-life hybrid. Full Zombie, full Skele, SRS, you name it, minions are my friggin fam jam. 
+
 ---
 
 ## The Basics
